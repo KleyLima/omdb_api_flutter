@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'search.dart';
 
 void main() => runApp(MyApp());
 
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
           centerTitle: true,
           leading: Icon(Icons.ondemand_video),
         ),
-        // body: SearchListViewExample(),
+        body: Search(),
       ),
     );
   }
