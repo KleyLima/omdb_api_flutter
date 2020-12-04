@@ -13,7 +13,9 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Say the Film"),
+          title: Text("Name a Film!"),
+          centerTitle: true,
+          leading: Icon(Icons.ondemand_video),
         ),
         // body: SearchListViewExample(),
       ),
