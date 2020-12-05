@@ -1,5 +1,9 @@
 # omdb_app
 
+## Preview
+
+![alt text](https://github.com/KleyLima/omdb_api_flutter/blob/main/preview.png?raw=true)
+
 A new Flutter application.
 
 All movie info is fetched for free in [OMDb API](http://www.omdbapi.com), the api_key in this repo is temporay only and should be replaced.
