@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+All movie info is fetched for free in [OMDb API](http://www.omdbapi.com), the api_key in this repo is temporay only and should be replaced.
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
